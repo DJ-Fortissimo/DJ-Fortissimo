@@ -1,19 +1,12 @@
-## Hiya peoples!
+## Hiya peopless 👋
 
-<!--
-**DJ-Fortissimo/DJ-Fortissimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I am a beginner programmer and aspiring Electrical Engineer.
 
 I also enjoy drawing/painting, reading, writing, and other creative hobbies.
+
+I am usually super busy with school stuff or summer programs so I probably wont upload stuff super often but idk.
+
+*Have a Hog Wild Wednesday!*
+
+# Current projects:
+  - Heartless Visual Novel - Not yet uploaded
