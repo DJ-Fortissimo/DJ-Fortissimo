@@ -1,4 +1,4 @@
-## Hiya peopless 👋
+# Hiya peopless 👋
 
 I am a beginner programmer and aspiring Electrical Engineer.
 
@@ -8,5 +8,5 @@ I am usually super busy with school stuff or summer programs so I probably wont 
 
 *Have a Hog Wild Wednesday!*
 
-# Current projects:
+## Current projects:
   - Heartless Visual Novel - Not yet uploaded
