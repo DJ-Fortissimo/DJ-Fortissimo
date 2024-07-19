@@ -10,3 +10,4 @@ I am usually super busy with school stuff or summer programs so I probably wont 
 
 ## Current projects:
   - Heartless Visual Novel - Not yet uploaded
+  - Random Angular website to mess around with
