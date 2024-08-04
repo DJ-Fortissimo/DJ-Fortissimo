@@ -9,5 +9,5 @@ I am usually super busy with school stuff or summer programs so I probably wont 
 *Have a Hog Wild Wednesday!*
 
 ## Current projects:
-  - Heartless Visual Novel - Not yet uploaded
+  - Heartless Visual Novel (private repo)
   - Random Angular websites to mess around with
